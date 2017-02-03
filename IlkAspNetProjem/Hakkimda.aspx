@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
     <div>
         <h1> ASP.NET MVC Egitimine hosgeldiniz</h1>
-        <%int yas = 35; %>
+        <%int yas = 28; %>
         <p> Yasimiz <%=yas %></p>
     
     </div>
